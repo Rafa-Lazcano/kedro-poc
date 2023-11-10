@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is your new Kedro project, which was generated using `kedro 0.18.13`.
+This is my new Kedro project, which was generated using `kedro 0.18.13`. Its objective is to assess the value of Kedro into a real-life development cycle.
 
 Take a look at the [Kedro documentation](https://docs.kedro.org) to get started.
 
